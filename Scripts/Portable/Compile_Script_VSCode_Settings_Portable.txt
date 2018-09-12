@@ -1,0 +1,8 @@
+//Jean-Luc Hayes 09/11/18
+
+ "code-runner.executorMap": {
+        "scheme": "",
+    },
+    "code-runner.executorMapByFileExtension": {
+        ".scm": "powershell -ExecutionPolicy ByPass -File \"J:\\Life\\5-College\\7-Fall 2018\\PHZ 4151C\\Scheme\\Scripts\\Portable\\Compile_Script_Portable.ps1\" -source $fileName -drain $fileNameWithoutExt -dir $dir ",
+    },

@@ -1,0 +1,5 @@
+//Jean-Luc Hayes 09/11/18
+
+#Building Chicken Windows
+mingw32-make PLATFORM=mingw PREFIX=C:/chicken
+mingw32-make PLATFORM=mingw PREFIX=C:/chicken install

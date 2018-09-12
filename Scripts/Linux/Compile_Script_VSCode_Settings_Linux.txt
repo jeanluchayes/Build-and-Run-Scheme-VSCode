@@ -1,0 +1,8 @@
+//Jean-Luc Hayes 09/11/18
+
+    "code-runner.executorMap": {
+        "scheme": "",
+    },
+    "code-runner.executorMapByFileExtension": {
+        ".scm": "~/Desktop/Compile_Script_Linux.sh $fileName $fileNameWithoutExt $dir",
+    },

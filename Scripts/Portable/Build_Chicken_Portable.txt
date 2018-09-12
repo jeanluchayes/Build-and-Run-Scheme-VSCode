@@ -1,0 +1,5 @@
+//Jean-Luc Hayes 09/11/18
+
+#Building Chicken Portable
+mingw32-make PLATFORM=mingw PREFIX=J:/PortableApps/chicken-4.13.0
+mingw32-make PLATFORM=mingw PREFIX=J:/PortableApps/chicken-4.13.0 install

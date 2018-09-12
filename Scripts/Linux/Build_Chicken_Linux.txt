@@ -1,0 +1,11 @@
+//Jean-Luc Hayes 09/11/18
+
+Install ChickenScheme from Package Manager
+
+	Package
+		sudo apt-get install chicken-bin libchicken-dev
+
+Build A scheme Executable
+	csc hello.scm -static -o hello
+
+
